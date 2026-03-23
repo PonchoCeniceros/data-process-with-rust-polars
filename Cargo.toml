@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+colored = "3"
 polars-core = "0.53"
 polars = { version = "0.53", features = ["lazy", "polars-io", "dtype-struct"] }
