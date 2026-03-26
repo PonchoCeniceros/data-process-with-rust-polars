@@ -475,6 +475,7 @@ dependencies = [
  "colored",
  "polars",
  "polars-core",
+ "polars-sql",
 ]
 
 [[package]]

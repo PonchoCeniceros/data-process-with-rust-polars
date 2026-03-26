@@ -7,3 +7,4 @@ edition = "2024"
 colored = "3"
 polars-core = "0.53"
 polars = { version = "0.53", features = ["lazy", "polars-io", "dtype-struct"] }
+polars-sql = "0.53.0"
